@@ -1,0 +1,8 @@
+org/mandla/results/twa/LauncherActivity.java
+ org.mandla.results.twa.LauncherActivity
+org/mandla/results/twa/DelegationService.java
+ org.mandla.results.twa.DelegationService
+org/mandla/results/twa/Application.java
+ org.mandla.results.twa.Application
+org/mandla/results/twa/BuildConfig.java
+ org.mandla.results.twa.BuildConfig

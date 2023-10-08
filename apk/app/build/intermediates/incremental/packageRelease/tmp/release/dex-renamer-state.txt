@@ -1,0 +1,4 @@
+#Sun Aug 20 03:16:13 PDT 2023
+base.0=/tmp/as-cloudapk--19-TTZYtne8rvyZ/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
